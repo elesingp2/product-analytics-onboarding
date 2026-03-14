@@ -1,6 +1,6 @@
 Помимо базовых навыков рекомендую повторить:
 
-- шарить как работает Lag/Lead![[Pasted image 20260314134233.png]]
+- шарить как работает Lag/Lead![[images/Pasted image 20260314134233.png]]
 - Знать разницу **[UNION](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-union/), [EXCEPT](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-except/), [INTERCEPT](https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-intersect/)**.
 
 **Задание:**
